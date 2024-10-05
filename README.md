@@ -1,4 +1,4 @@
-# [Travel Itinerary Generator](https://sanjeev02.pythonanywhere.com)
+# [Personalised Travel Itinerary Generator](https://sanjeev02.pythonanywhere.com)
 ***
 
 [![GitHub license](https://img.shields.io/github/license/Sanjeev-Kumar78/Travel-Itinerary-Generator)](LICENSE)
