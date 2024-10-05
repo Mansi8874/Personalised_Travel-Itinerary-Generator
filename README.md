@@ -84,23 +84,23 @@ python wsgi.py
 ## Screenshots
 
 **Home Page of Travel Itinerary Generator without Login.**
-![image](https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/a5e0f1c9-b0c4-4c1b-ba50-1a0b6c2a56bf)
+![image](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/a5e0f1c9-b0c4-4c1b-ba50-1a0b6c2a56bf)
 
 
 **Register Page / Sign Up**
-![image-1](https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/2c2f90ff-c81d-48e6-a64f-ed71a1485cc8)
+![image-1](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/2c2f90ff-c81d-48e6-a64f-ed71a1485cc8)
 
 
 **Login Page**
-![image-2](https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/7f50219b-546a-43d0-83bd-ca5d2262c261)
+![image-2](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/7f50219b-546a-43d0-83bd-ca5d2262c261)
 
 
 **For Testing, I have taken Source Point as Varanasi & Destination as Mumbai, Starting Date of Journey: 06/11/2023, Return Date: 10/11/2023**
-![image-3](https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/9b429e5a-722c-4d0c-ae39-b4e64440a34a)
+![image-3](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/9b429e5a-722c-4d0c-ae39-b4e64440a34a)
 
 
 **Itinerary Page**
-![image-4](https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/9f91a253-7ab8-4211-9b58-0a843cc66f0e)
+![image-4](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/9f91a253-7ab8-4211-9b58-0a843cc66f0e)
 
 
 ## License
