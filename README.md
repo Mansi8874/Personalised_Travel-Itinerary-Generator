@@ -104,7 +104,7 @@ Make your travel dreams a reality. Start planning your next adventure with the T
 <img width="924" alt="Screenshot 2024-10-05 at 5 29 19 PM" src="https://github.com/user-attachments/assets/b21e6355-6174-4e33-91e3-8977410a9e27">
 
 
-**For Testing, I have taken Source Point as Varanasi & Destination as Mumbai, Starting Date of Journey: 06/11/2023, Return Date: 10/11/2023**
+**For testing purposes, I have set the source point as Varanasi, the destination as Mumbai, with a journey starting on 06/11/2023 and returning on 10/11/2023.**
 
 <img width="1175" alt="Screenshot 2024-10-05 at 5 29 48 PM" src="https://github.com/user-attachments/assets/9f660ded-9db0-4552-9b29-acdc0380bada">
 
