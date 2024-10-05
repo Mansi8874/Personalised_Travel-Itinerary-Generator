@@ -1,4 +1,4 @@
-# [Personalised Travel Itinerary Generator]
+# Personalised Travel Itinerary Generator
 ***
 
 Effortlessly plan your dream trip with the Travel Itinerary Generator, your go-to companion for creating seamless travel experiences. Whether it's a road trip, city adventure, or international journey, this powerful tool simplifies every step of the planning process.
