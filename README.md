@@ -1,18 +1,10 @@
-# [Personalised Travel Itinerary Generator](https://sanjeev02.pythonanywhere.com)
+# [Personalised Travel Itinerary Generator]
 ***
-
-[![GitHub license](https://img.shields.io/github/license/Sanjeev-Kumar78/Travel-Itinerary-Generator)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Sanjeev-Kumar78/Travel-Itinerary-Generator)]()
-[![GitHub contributors](https://img.shields.io/github/contributors/Sanjeev-Kumar78/Travel-Itinerary-Generator)]()
-[![GitHub last-commit](https://img.shields.io/github/last-commit/Sanjeev-Kumar78/Travel-Itinerary-Generator)]()
-
-
-<img title="Travel-Itinerary-Generator" align='right' src="/static/logo.svg" alt="Travel Itinerary Generator Logo" width="150"/>
 
 Effortlessly plan your dream trip with the Travel Itinerary Generator, your go-to companion for creating seamless travel experiences. Whether it's a road trip, city adventure, or international journey, this powerful tool simplifies every step of the planning process.
 
 ## Sample:
-https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/d55374a9-41bd-4454-8c2b-4f037b1f010b
+https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/d55374a9-41bd-4454-8c2b-4f037b1f010b
 
 
 
@@ -67,8 +59,8 @@ Travel Itinerary Generator is a computer program that empowers travelers to effo
 1. Clone the repository:
 
    ```shell
-   https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator.git
-   cd Travel-Itinerary-Generator
+   https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator.git
+   cd Personalised_Travel-Itinerary-Generator
 2. Install required packages:
 
    ```shell
