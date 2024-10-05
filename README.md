@@ -91,7 +91,8 @@ Make your travel dreams a reality. Start planning your next adventure with the T
 
 **Home Page of Travel Itinerary Generator without Login.**
 
-<img width="1274" alt="Screenshot 2024-10-05 at 5 27 15 PM" src="https://github.com/user-attachments/assets/a295a4b4-3bab-4e57-8e45-b4faed861052">
+<img width="718" alt="Screenshot 2024-10-05 at 5 41 04 PM" src="https://github.com/user-attachments/assets/bac77280-7d00-4c49-a1b3-0a5617f175fe">
+
 
 **Register Page / Sign Up**
 
