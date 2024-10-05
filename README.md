@@ -83,7 +83,7 @@ https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/d55374a9
 Turn your travel dreams into reality by planning your next adventure with the Travel Itinerary Generator today!
 </p>
 <p align="center">
-<i> Explore, discover, and ensure that every trip is unforgettable.*</i>
+<i> Explore, discover, and ensure that every trip is unforgettable.</i>
 </p>
 
 
