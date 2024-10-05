@@ -82,21 +82,26 @@ python wsgi.py
 ## Screenshots
 
 **Home Page of Travel Itinerary Generator without Login.**
+
 <img width="1274" alt="Screenshot 2024-10-05 at 5 27 15 PM" src="https://github.com/user-attachments/assets/a295a4b4-3bab-4e57-8e45-b4faed861052">
 
 **Register Page / Sign Up**
+
 <img width="921" alt="Screenshot 2024-10-05 at 5 28 54 PM" src="https://github.com/user-attachments/assets/65388bfe-93f9-4b0c-b91b-f635e7760191">
 
 
 **Login Page**
+
 <img width="924" alt="Screenshot 2024-10-05 at 5 29 19 PM" src="https://github.com/user-attachments/assets/b21e6355-6174-4e33-91e3-8977410a9e27">
 
 
 **For Testing, I have taken Source Point as Varanasi & Destination as Mumbai, Starting Date of Journey: 06/11/2023, Return Date: 10/11/2023**
+
 <img width="1175" alt="Screenshot 2024-10-05 at 5 29 48 PM" src="https://github.com/user-attachments/assets/9f660ded-9db0-4552-9b29-acdc0380bada">
 
 
 **Itinerary Page**
+
 <img width="572" alt="Screenshot 2024-10-05 at 5 30 16 PM" src="https://github.com/user-attachments/assets/ad8b7022-8ba2-4085-998f-f1e13cf133d1">
 
 ## License
