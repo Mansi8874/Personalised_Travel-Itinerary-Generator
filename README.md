@@ -85,7 +85,7 @@ python wsgi.py
 
 **Home Page of Travel Itinerary Generator without Login.**
 ![image](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/a5e0f1c9-b0c4-4c1b-ba50-1a0b6c2a56bf)
-
+<img width="1274" alt="Screenshot 2024-10-05 at 5 27 15 PM" src="https://github.com/user-attachments/assets/a295a4b4-3bab-4e57-8e45-b4faed861052">
 
 **Register Page / Sign Up**
 ![image-1](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/2c2f90ff-c81d-48e6-a64f-ed71a1485cc8)
