@@ -7,8 +7,6 @@ Effortlessly plan your dream trip with the Travel Itinerary Generator, your go-t
 https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/d55374a9-41bd-4454-8c2b-4f037b1f010b
 
 
-
-
 <p align="center">
 Make your travel dreams a reality. Start planning your next adventure with the Travel Itinerary Generator today!
 </p>
@@ -84,24 +82,22 @@ python wsgi.py
 ## Screenshots
 
 **Home Page of Travel Itinerary Generator without Login.**
-![image](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/a5e0f1c9-b0c4-4c1b-ba50-1a0b6c2a56bf)
 <img width="1274" alt="Screenshot 2024-10-05 at 5 27 15 PM" src="https://github.com/user-attachments/assets/a295a4b4-3bab-4e57-8e45-b4faed861052">
 
 **Register Page / Sign Up**
-![image-1](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/2c2f90ff-c81d-48e6-a64f-ed71a1485cc8)
+<img width="921" alt="Screenshot 2024-10-05 at 5 28 54 PM" src="https://github.com/user-attachments/assets/65388bfe-93f9-4b0c-b91b-f635e7760191">
 
 
 **Login Page**
-![image-2](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/7f50219b-546a-43d0-83bd-ca5d2262c261)
+<img width="924" alt="Screenshot 2024-10-05 at 5 29 19 PM" src="https://github.com/user-attachments/assets/b21e6355-6174-4e33-91e3-8977410a9e27">
 
 
 **For Testing, I have taken Source Point as Varanasi & Destination as Mumbai, Starting Date of Journey: 06/11/2023, Return Date: 10/11/2023**
-![image-3](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/9b429e5a-722c-4d0c-ae39-b4e64440a34a)
+<img width="1175" alt="Screenshot 2024-10-05 at 5 29 48 PM" src="https://github.com/user-attachments/assets/9f660ded-9db0-4552-9b29-acdc0380bada">
 
 
 **Itinerary Page**
-![image-4](https://github.com/Mansi8874/Personalised_Travel-Itinerary-Generator/assets/62820550/9f91a253-7ab8-4211-9b58-0a843cc66f0e)
-
+<img width="572" alt="Screenshot 2024-10-05 at 5 30 16 PM" src="https://github.com/user-attachments/assets/ad8b7022-8ba2-4085-998f-f1e13cf133d1">
 
 ## License
 
