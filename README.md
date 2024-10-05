@@ -94,9 +94,11 @@ Make your travel dreams a reality. Start planning your next adventure with the T
 <img width="718" alt="Screenshot 2024-10-05 at 5 41 04 PM" src="https://github.com/user-attachments/assets/bac77280-7d00-4c49-a1b3-0a5617f175fe">
 
 
+
 **Register Page / Sign Up**
 
 <img width="921" alt="Screenshot 2024-10-05 at 5 28 54 PM" src="https://github.com/user-attachments/assets/65388bfe-93f9-4b0c-b91b-f635e7760191">
+
 
 
 **Login Page**
@@ -104,14 +106,17 @@ Make your travel dreams a reality. Start planning your next adventure with the T
 <img width="924" alt="Screenshot 2024-10-05 at 5 29 19 PM" src="https://github.com/user-attachments/assets/b21e6355-6174-4e33-91e3-8977410a9e27">
 
 
+
 **For testing purposes, I have set the source point as Varanasi, the destination as Mumbai, with a journey starting on 06/11/2023 and returning on 10/11/2023.**
 
 <img width="1175" alt="Screenshot 2024-10-05 at 5 29 48 PM" src="https://github.com/user-attachments/assets/9f660ded-9db0-4552-9b29-acdc0380bada">
 
 
+
 **Itinerary Page**
 
 <img width="572" alt="Screenshot 2024-10-05 at 5 30 16 PM" src="https://github.com/user-attachments/assets/ad8b7022-8ba2-4085-998f-f1e13cf133d1">
+
 
 ## License
 
