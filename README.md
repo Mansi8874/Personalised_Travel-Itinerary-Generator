@@ -7,6 +7,10 @@ Effortlessly plan your dream trip with the Travel Itinerary Generator, your go-t
 
 Travel Itinerary Generator is a computer program that empowers travelers to effortlessly create personalized travel itineraries. By considering users' interests, budgets, and travel dates, this application generates comprehensive lists of activities, attractions, and accommodations. Whether you're an experienced traveler or a novice, the Travel Itinerary Generator is your key to saving time and ensuring an enriching and well-rounded travel experience.
 
+## Features
+
+- **Weather Forecast:** The Travel Itinerary Generator provides a weather forecast of the destination for the whole travel time.
+- **Travel Itinerary:** The Travel Itinerary Generator provides a travel itinerary for the whole travel time in an optimum budget.
 
 ## Table of Contents
 
@@ -27,10 +31,7 @@ Travel Itinerary Generator is a computer program that empowers travelers to effo
 ## Limitations & Future Work
 - The Travel Itinerary Generator works only based on the user's source and destination and time of travel.
 
-## Features
 
-- **Weather Forecast:** The Travel Itinerary Generator provides a weather forecast of the destination for the whole travel time.
-- **Travel Itinerary:** The Travel Itinerary Generator provides a travel itinerary for the whole travel time in an optimum budget.
 ## Requirements
 
 - Python 3.11
