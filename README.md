@@ -3,16 +3,6 @@
 
 Effortlessly plan your dream trip with the Travel Itinerary Generator, your go-to companion for creating seamless travel experiences. Whether it's a road trip, city adventure, or international journey, this powerful tool simplifies every step of the planning process.
 
-## Sample:
-https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/d55374a9-41bd-4454-8c2b-4f037b1f010b
-
-
-<p align="center">
-Make your travel dreams a reality. Start planning your next adventure with the Travel Itinerary Generator today!
-</p>
-<p align="center">
-<i>Explore, discover, and make every trip unforgettable.*</i>
-</p>
 
 ## Table of Contents
 
@@ -78,6 +68,18 @@ Run the following command to start the application:
 ```shell
 python wsgi.py
 ```
+
+## Sample:
+https://github.com/Mansi8874/Travel-Itinerary-Generator/assets/62820550/d55374a9-41bd-4454-8c2b-4f037b1f010b
+
+
+<p align="center">
+Make your travel dreams a reality. Start planning your next adventure with the Travel Itinerary Generator today!
+</p>
+<p align="center">
+<i>Explore, discover, and make every trip unforgettable.*</i>
+</p>
+
 
 ## Screenshots
 
