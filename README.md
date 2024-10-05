@@ -23,15 +23,15 @@ The Travel Itinerary Generator is a user-friendly application that enables trave
 ## Table of Contents
 
 - [Travel Itinerary Generator](#travel-itinerary-generator)
-  - [Sample:](#sample)
-  - [Table of Contents](#table-of-contents)
   - [About](#about)
-  - [Limitations \& Future Work](#limitations--future-work)
   - [Features](#features)
+  - [Limitations \& Future Work](#limitations--future-work)
+  - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
   - [Setup and Installation](#setup-and-installation)
   - [API Keys](#api-keys)
   - [Usage](#usage)
+  - [Sample:](#sample)
   - [Screenshots](#screenshots)
   - [License](#license)
 
